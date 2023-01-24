@@ -109,18 +109,8 @@
             "voltajeNominal":"",
             "corriente":""
 
-        },
-        {
-            "id": 10,
-            "nombre": "PANEL SOLAR 345[PALLET]",
-            "modelo":"AMERISOLAR AS-6P",
-            "marca":"",
-            "tipo":"PANEL SOLAR",
-            "potenciaMaxima":"345W",
-            "voltajeNominal":"",
-            "corriente":""
-
         }
+     
        
     ]
 }
