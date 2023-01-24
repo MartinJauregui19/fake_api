@@ -1,0 +1,126 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Panel solar básico 10W",
+            "modelo":"",
+            "marca":"",
+            "tipo":"PANEL SOLAR",
+            "potenciaMaxima":"10W",
+            "voltajeNominal":"18.20VCC",
+            "corriente(imp)":"0.55A"
+
+        },
+        {
+            "id": 2,
+            "nombre": "CONECTOR SOLAR 1000V",
+            "modelo":"MC4",
+            "marca":"",
+            "tipo":"Conectores MC4",
+            "potenciaMaxima":"1000V",
+            "voltajeNominal":"",
+            "corriente":"30A"
+
+        },
+        {
+            "id": 3,
+            "nombre": "PUERTO DE MONITOREO",
+            "modelo":"",
+            "marca":"",
+            "tipo":"MONITOREO-SOLAR-LOG",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":"Hasta 15 kWp"
+
+        },
+        {
+            "id": 4,
+            "nombre": "PRECINTO 4.6 x 150 mm (acero inoxidable)",
+            "modelo":"",
+            "marca":"",
+            "tipo":"SOPORTES PARA PANELES",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 5,
+            "nombre": "Mordaza medio para panel solar 35-40mm",
+            "modelo":"",
+            "marca":"",
+            "tipo":"SOPORTES DE PANELES CON RIEL - TECHO DE TEJAS",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 6,
+            "nombre": "Mordaza de media para panel solar 35-40mm",
+            "modelo":"",
+            "marca":"",
+            "tipo":"SOPORTES PANELES CON RIEL - TECHO DE CHAPA",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 7,
+            "nombre": "Mordaza medio para panel solar 32-40mm",
+            "modelo":"GN-003",
+            "marca":"",
+            "tipo":"SOPORTES PANELES CON RIEL - SUPERFICIES PLANAS",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 8,
+            "nombre": "Mordaza medio para panel solar 32-40mm",
+            "modelo":"GN-003/ATL",
+            "marca":"",
+            "tipo":"SOPORTES PANELES SIN RIEL - TECHO DE CHAPA",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 9,
+            "nombre": "CAJA DE CONEXIONES",
+            "modelo":"ABS1WH",
+            "marca":"",
+            "tipo":"SOPORTES SOLARES PARA VEHÍCULOS",
+            "potenciaMaxima":"",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 10,
+            "nombre": "PANEL SOLAR 345[PALLET]",
+            "modelo":"AMERISOLAR AS-6P",
+            "marca":"",
+            "tipo":"PANEL SOLAR",
+            "potenciaMaxima":"345W",
+            "voltajeNominal":"",
+            "corriente":""
+
+        },
+        {
+            "id": 10,
+            "nombre": "PANEL SOLAR 345[PALLET]",
+            "modelo":"AMERISOLAR AS-6P",
+            "marca":"",
+            "tipo":"PANEL SOLAR",
+            "potenciaMaxima":"345W",
+            "voltajeNominal":"",
+            "corriente":""
+
+        }
+       
+    ]
+}
