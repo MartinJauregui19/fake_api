@@ -8,7 +8,7 @@
             "tipo":"PANEL SOLAR",
             "potenciaMaxima":"10W",
             "voltajeNominal":"18.20VCC",
-            "corriente(imp)":"0.55A"
+            "corriente":"0.55A"
 
         },
         {
