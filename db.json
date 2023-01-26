@@ -8,7 +8,8 @@
             "tipo":"PANEL SOLAR",
             "potenciaMaxima":"10W",
             "voltajeNominal":"18.20VCC",
-            "corriente":"0.55A"
+            "corriente":"0.55A",
+            "img":"https://enertik.ar/images/productos/ps/ps10.png"
 
         },
         {
